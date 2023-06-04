@@ -2,6 +2,6 @@
 
 @section('content')
     <div class="content">
-        Scenario blade
+        Scenario blade office_dev
     </div>
 @endsection
