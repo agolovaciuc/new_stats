@@ -1,0 +1,1 @@
+"use strict";$(function(){var r="rtl"===$("html").attr("dir");$("#widget-carousel").slick({rtl:r,asNavFor:"#widget-carousel-nav",slidesToShow:1,slidesToScroll:1,arrows:!1}),$("#widget-carousel-nav").slick({rtl:r,asNavFor:"#widget-carousel",slidesToShow:1,slidesToScroll:1,arrows:!1,centerMode:!0})});

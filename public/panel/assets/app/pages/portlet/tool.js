@@ -1,0 +1,1 @@
+"use strict";$(function(){$(".portlet.portlet-collapsed").portlet("collapse"),$('[data-toggle="portlet"]').on("click",function(){var t=$(this).data("target"),e=$(this).data("behavior");(t="parent"===t?$(this).closest(".portlet"):$(t)).portlet(e)})});
