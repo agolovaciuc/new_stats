@@ -2,6 +2,6 @@
 
 @section('content')
     <div class="content">
-        statuses
+        statuses 123
     </div>
 @endsection
